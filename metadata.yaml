@@ -1,0 +1,37 @@
+_repo: The-Maid-of-Orleans--A-Tragedy_6792
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Swanwick, Anna
+    birthdate: 1813
+    deathdate: 1899
+    gutenberg_agent_id: '4724'
+    url: http://www.gutenberg.org/2009/agents/4724
+creator:
+  author:
+    agent_name: Schiller, Friedrich
+    aliases:
+    - Schiller, Friedrich von
+    - Schiller, Johann Christoph Friedrich von
+    birthdate: 1759
+    deathdate: 1805
+    gutenberg_agent_id: '289'
+    url: http://www.gutenberg.org/2009/agents/289
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
+description: ''
+gutenberg_issued: '2004-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6792'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tragedies'
+- !lcc 'PT'
+- !lcsh 'France -- History -- Charles VII, 1422-1461 -- Drama'
+- !lcsh 'Joan, of Arc, Saint, 1412-1431 -- Drama'
+- GITenberg
+title: 'The Maid of Orleans: A Tragedy'
+url: http://www.gutenberg.org/ebooks/6792
